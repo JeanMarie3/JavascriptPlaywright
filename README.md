@@ -1,4 +1,5 @@
 # JavascriptPlaywright
+<<<<<<< HEAD
 > Exercising 
 
 ## Install
@@ -29,3 +30,5 @@ npx playwright test
 ```sh
 npx playwright show-report
 ```
+=======
+>>>>>>> ac2ef3370acb2ddca2b6fea0c467178dceb37495
